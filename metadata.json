@@ -1,0 +1,6 @@
+{
+  "name": "Cash Flow",
+  "description": "Global cash intelligence platform comparing 195 countries' declared population data with actual printed and minted currency denominations, interactive Recharts comparisons, per capita cash ratios, denomination breakdowns, currency converter, global heatmaps, and economic scenario simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
